@@ -9,7 +9,7 @@
 *.slo
 *.lo
 *.o
-*.obj
+#*.obj
 
 # Precompiled Headers
 *.gch
@@ -28,7 +28,7 @@
 *.lai
 *.la
 *.a
-*.lib
+#*.lib
 
 # Executables
 *.exe
@@ -114,7 +114,7 @@ artifacts/
 *_i.h
 *.ilk
 *.meta
-*.pdb
+#*.pdb
 *.pgc
 *.pgd
 *.rsp
